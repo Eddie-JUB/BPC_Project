@@ -29,7 +29,7 @@ https://github.com/xinshuoweng/AB3DMOT​
 https://github.com/chrisHuxi/Trajecto...​
 
 4. Enviroment : 
-- Ubuntu 16.04
+- Ubuntu 16.04 LTS
 - ROS Kinetic
-- Data set : Kitti
+- Data set : Kitti data set
 http://www.cvlibs.net/datasets/kitti/...
