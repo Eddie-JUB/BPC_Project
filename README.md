@@ -4,7 +4,7 @@
 
 <2020 NVIDIA 플랫폼 기반 자율주행차 구현을 위한 SW 개발 및 실무프로젝트 과정>
 
-## Contributer 
+### Contributer 
 
 Jonguk Bae : https://github.com/Eddie-JUB
 
@@ -12,13 +12,16 @@ Chanjong Park : https://github.com/FinalCold
 
 Dahun Choi : https://github.com/DahunChoi/BPC_Project
 
+![image](https://user-images.githubusercontent.com/71426994/112785492-11e6e600-908f-11eb-9a99-f3112f9009d2.png)
+
+
 
 ![KakaoTalk_Photo_2021-03-08-00-28-24](https://user-images.githubusercontent.com/71426994/110245090-36c2ce80-7fa5-11eb-951a-48ceb6a8c16d.gif)
 
 https://www.youtube.com/watch?v=mXKHhPH5q4s
 
 
-## Roadmap
+### Roadmap
 1. Detection : SFA3D
 https://github.com/maudzung/SFA3D​
 
@@ -33,3 +36,7 @@ https://github.com/chrisHuxi/Trajecto...​
 - ROS Kinetic
 - Data set : Kitti data set
 http://www.cvlibs.net/datasets/kitti/...
+
+
+
+ + Personal Portfoilio : https://asq.kr/j5iTWgYF6Uu6rR
