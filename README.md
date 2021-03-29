@@ -18,6 +18,7 @@ Dahun Choi : https://github.com/DahunChoi/BPC_Project
 
 
 
+- Warning Alarm in Cut-in case
 
 ![KakaoTalk_Photo_2021-03-08-00-28-24](https://user-images.githubusercontent.com/71426994/110245090-36c2ce80-7fa5-11eb-951a-48ceb6a8c16d.gif)
 
