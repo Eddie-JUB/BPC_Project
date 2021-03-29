@@ -9,6 +9,7 @@
 ### Contributer 
 
 Jonguk Bae : https://github.com/Eddie-JUB
+- Personal Portfoilio : https://asq.kr/j5iTWgYF6Uu6rR
 
 Chanjong Park : https://github.com/FinalCold
 
@@ -42,5 +43,3 @@ https://github.com/chrisHuxi/Trajecto...​
 http://www.cvlibs.net/datasets/kitti/...
 
 
-
- + Personal Portfoilio : https://asq.kr/j5iTWgYF6Uu6rR
