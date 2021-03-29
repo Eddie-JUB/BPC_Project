@@ -22,7 +22,7 @@ Dahun Choi : https://github.com/DahunChoi/BPC_Project
 ![2021-03-26 21_23_11](https://user-images.githubusercontent.com/71426994/112786773-f29d8800-9091-11eb-9b99-1b94362fc51f.gif)
 
 
-### Vizulization by Rviz
+### Visualization with RViz
 
 ![image](https://user-images.githubusercontent.com/71426994/112785613-596d7200-908f-11eb-9559-1e614711113b.png)
 
