@@ -12,7 +12,8 @@ Chanjong Park : https://github.com/FinalCold
 
 Dahun Choi : https://github.com/DahunChoi/BPC_Project
 
-![image](https://user-images.githubusercontent.com/71426994/112785492-11e6e600-908f-11eb-9a99-f3112f9009d2.png)
+![image](https://user-images.githubusercontent.com/71426994/112785613-596d7200-908f-11eb-9559-1e614711113b.png)
+
 
 
 
