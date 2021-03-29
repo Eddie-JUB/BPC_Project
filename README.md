@@ -19,7 +19,8 @@ Dahun Choi : https://github.com/DahunChoi/BPC_Project
 ![image](https://user-images.githubusercontent.com/71426994/112786632-ab16fc00-9091-11eb-89b5-192387fe8c2a.png)
 
 - ROS nodes
-![image](https://user-images.githubusercontent.com/71426994/112786664-b8cc8180-9091-11eb-8ed8-55c60f292797.png)
+![2021-03-26 21_23_11](https://user-images.githubusercontent.com/71426994/112786773-f29d8800-9091-11eb-9b99-1b94362fc51f.gif)
+
 
 ### Vizulization by Rviz
 
