@@ -1,6 +1,8 @@
-# BPC_Project : 경로 예측을 통한 M-ADAS 개발
+# BPC_Project : ADAS Project using Path Prediction
 
-<2020 NVIDIA 플랫폼 기반 자율주행차 구현을 위한 SW 개발 및 실무프로젝트 과정>
+<2020 Autonomous vehicle H/W and S/W platform development expert course and practical project> Final Project
+
+<2020 NVIDIA 플랫폼 기반 자율주행차 구현을 위한 SW 개발 및 실무프로젝트 과정> 최종 프로젝트
 
 ### Project Period
 
