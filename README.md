@@ -17,6 +17,23 @@ Chanjong Park : https://github.com/FinalCold
 
 Dahun Choi : https://github.com/DahunChoi/BPC_Project
 
+### Roadmap
+1. Detection : SFA3D
+https://github.com/maudzung/SFA3D​
+
+2. Tracking : AB3DMOT(SORT)
+https://github.com/xinshuoweng/AB3DMOT​
+
+3. Prediction : AMM
+https://github.com/chrisHuxi/Trajecto...​
+
+4. Enviroment : 
+- Ubuntu 16.04 LTS
+- ROS Kinetic
+- Data set : Kitti data set
+http://www.cvlibs.net/datasets/kitti/...
+
+
 ### H/W & S/W Structure
 ![image](https://user-images.githubusercontent.com/71426994/112786632-ab16fc00-9091-11eb-89b5-192387fe8c2a.png)
 
@@ -35,21 +52,14 @@ Dahun Choi : https://github.com/DahunChoi/BPC_Project
 
 https://www.youtube.com/watch?v=mXKHhPH5q4s
 
+- Sideways vehicle warning Visualization using Path Prediction
+![ezgif-3-b261e1c3ecae](https://user-images.githubusercontent.com/71426994/112948044-83e42b80-9172-11eb-9903-31686db5822d.gif)
 
-### Roadmap
-1. Detection : SFA3D
-https://github.com/maudzung/SFA3D​
+- Left front vehicle warning using Path Prediction
+![ezgif-3-ac5bf5fa1108](https://user-images.githubusercontent.com/71426994/112948083-91011a80-9172-11eb-8e7f-f8130eb12ffe.gif)
 
-2. Tracking : AB3DMOT(SORT)
-https://github.com/xinshuoweng/AB3DMOT​
 
-3. Prediction : AMM
-https://github.com/chrisHuxi/Trajecto...​
 
-4. Enviroment : 
-- Ubuntu 16.04 LTS
-- ROS Kinetic
-- Data set : Kitti data set
-http://www.cvlibs.net/datasets/kitti/...
+
 
 
