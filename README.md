@@ -46,16 +46,16 @@ http://www.cvlibs.net/datasets/kitti/...
 ![image](https://user-images.githubusercontent.com/71426994/112785613-596d7200-908f-11eb-9559-1e614711113b.png)
 
 
-- Warning Alarm in Cut-in case
+- Warning Alarm in Lane change case
 
 ![KakaoTalk_Photo_2021-03-08-00-28-24](https://user-images.githubusercontent.com/71426994/110245090-36c2ce80-7fa5-11eb-951a-48ceb6a8c16d.gif)
 
 https://www.youtube.com/watch?v=mXKHhPH5q4s
 
-- Sideways vehicle warning Visualization using Path Prediction
+- Sideways vehicle Warning
 ![ezgif-3-b261e1c3ecae](https://user-images.githubusercontent.com/71426994/112948044-83e42b80-9172-11eb-9903-31686db5822d.gif)
 
-- Left front vehicle warning using Path Prediction
+- Left front vehicle warning
 ![ezgif-3-ac5bf5fa1108](https://user-images.githubusercontent.com/71426994/112948083-91011a80-9172-11eb-8e7f-f8130eb12ffe.gif)
 
 
