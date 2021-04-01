@@ -4,6 +4,8 @@
 
 <2020 NVIDIA 플랫폼 기반 자율주행차 구현을 위한 SW 개발 및 실무프로젝트 과정> 최종 프로젝트
 
+
+
 ### Project Period
 
 2020.08.24 ~2020.10.29
@@ -16,6 +18,13 @@ Jonguk Bae : https://github.com/Eddie-JUB
 Chanjong Park : https://github.com/FinalCold
 
 Dahun Choi : https://github.com/DahunChoi/BPC_Project
+
+### Awards
+
+- Project Excellence Award
+- 2020 IITP Excellent team nominated
+
+
 
 ### Roadmap
 1. Detection : SFA3D
