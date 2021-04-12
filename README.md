@@ -13,7 +13,7 @@
 ### Contributer 
 
 Jonguk Bae : https://github.com/Eddie-JUB
-- Personal Portfoilio : https://asq.kr/j5iTWgYF6Uu6rR
+- Personal Portfoilio : https://github.com/Eddie-JUB/Portfolio
 
 Chanjong Park : https://github.com/FinalCold
 
